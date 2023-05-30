@@ -5,8 +5,5 @@
 #include<cstdlib>
 class Game
 {
-	Game() {
-
-	}
 };
 
