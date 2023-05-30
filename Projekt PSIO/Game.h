@@ -2,7 +2,7 @@
 #include<iostream>
 #include<vector>
 #include<time.h>
-#include<cstdlib>8
+#include<cstdlib>
 class Game
 {
 };
