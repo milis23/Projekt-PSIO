@@ -1,8 +1,7 @@
 #pragma once
 #include "AnimowaneAssety.h"
-class Bomb :
+class Throwable :
     public AnimowaneAssety
-
 {
 };
 

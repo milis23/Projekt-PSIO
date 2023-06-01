@@ -1,7 +1,7 @@
 #pragma once
-#include "AnimowaneAssety.h"
+#include "Throwable.h"
 class Net :
-    public AnimowaneAssety
+    public Throwable
 {
 };
 
